@@ -7,3 +7,5 @@
 * Larry Plotter y El Orden de Unix
 * Larry Plotter y el Misterio del hacker
 * Larry Plotter y Los Commits de la Muerte
+
+**Alejandro Vázquez**
